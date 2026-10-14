@@ -1,6 +1,6 @@
 # DNS Lookup
 
-[![CI](https://github.com/ongechiosiango/utility-tool-7/actions/workflows/ci.yml/badge.svg)](https://github.com/ongechiosiango/utility-tool-7/actions/workflows/ci.yml)
+[![CI](https://github.com/ongechiosiango/dns-lookup/actions/workflows/ci.yml/badge.svg)](https://github.com/ongechiosiango/dns-lookup/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 
@@ -18,7 +18,7 @@ A command-line DNS lookup tool with rich terminal output.
 
 From source:
 
-    git clone git@github.com:ongechiosiango/utility-tool-7.git
+    git clone git@github.com:ongechiosiango/dns-lookup.git
     cd utility-tool-7
     python3 -m venv venv
     source venv/bin/activate
